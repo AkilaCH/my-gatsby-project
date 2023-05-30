@@ -1,0 +1,17 @@
+.imageWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.imageMe {
+    width: 50%;
+}
+
+.paragaraph {
+    margin-top: 1rem;
+}
+
+.titleMe {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}

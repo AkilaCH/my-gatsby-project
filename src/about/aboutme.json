@@ -1,0 +1,14 @@
+{
+   "image" : "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+  "content": [
+    {
+      "item": "Hello, everyone! My name is Akila, and I am a passionate UI developer. I'm excited to have the opportunity to introduce myself and share my experience in this field."
+    },
+    {
+        "item": "I have been working as a UI developer for three years, and during this time, I have developed a strong understanding of user-centered design principles and best practices. I enjoy crafting visually appealing and intuitive interfaces that enhance the user experience."
+    },
+    {
+        "item": "My technical skills include proficiency in HTML, CSS, and JavaScript, which are the foundation of front-end development. I am well-versed in modern frameworks such as React and Angular, and I am constantly keeping up with the latest industry trends and emerging technologies."
+    }
+  ]
+}

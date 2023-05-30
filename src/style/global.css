@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: #000005;
+}
+
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background: linear-gradient(90deg, #faaca8  0%,  #ddd6f3 60%);
+    background-repeat: no-repeat;
+    margin: 1rem;
+}
+
+p {
+    margin: 16px auto;
+    line-height: 1.5em;
+}
+
+/* layout & nav */
+.layout {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 40px auto;
+}
+
+nav .links {
+    display: inline-block;
+    text-align: right;
+}
+
+nav a {
+    display: inline-block;
+    margin-left: 20px;
+    font-weight: 400;
+    padding-bottom: 8px;
+    border-bottom: 3px solid transparent;
+}
+
+nav a:hover {
+    border-color: white;
+}
+
+footer p {
+    text-align: center;
+    margin: 40px auto;
+}
+
